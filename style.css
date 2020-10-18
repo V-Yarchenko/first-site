@@ -1,6 +1,5 @@
 body {
-  background-image: url(/first-site/img/img-first.jpg);
-  background-size: cover;
+  background-image: url(/first-site/img/img-first.jpg) cover;
   font-size: 24px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   margin-left: 30px;
